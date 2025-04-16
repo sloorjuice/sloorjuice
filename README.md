@@ -7,5 +7,6 @@
 ---
 
 ### Contact me at:
-- My email: antant8085@gmail.com
+- My Email: antant8085@gmail.com
+- My Phone: (814) 431-2013
 - My Twitter: [Sloorjuice](https://x.com/sloorjuice)
