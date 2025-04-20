@@ -7,6 +7,6 @@
 ---
 
 ### Contact me at:
-- My Email: antant8085@gmail.com
-- My Phone: (814) 431-2013
+- My Email: contact@sloor.dev
+- My Phone: [(814) 431-2013](tel:+18144312013)
 - My Twitter: [Sloorjuice](https://x.com/sloorjuice)
