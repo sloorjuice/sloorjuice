@@ -1,9 +1,9 @@
 ## 👋 Hi there, My names **Anthony**
 
-- I'm currently learning Next.js and Tailwind CSS, aswell as React Native and mobile development in general.
-- Fluent in Python, HTML + Javacript, C#, React, Unity2D + Unity3D, and using Netlify.
-- Basic understanding of Java, Django, Firebase, XCode + Swift, Android Studio, and using AWS.
-- I'm working on my passion project "https://www.oftheday.world/", A simple website that gives you lots of items of the day. Think like song of the day, multiplayer game of the day, Anime of the day...
+- I'm currently learning React Native and everything else that comes with mobile development.
+- Fluent in React Naitve, React, Next.js, Tailwind. Python, Javacript, C#, React, Unity2D/3D, plus using Netlify and Firebase.
+- Basic understanding of Java, Django, and using AWS.
+- I'm working on my passion project "https://www.iskate.app/", A full on social media platofrom made for skateboarders. Everything a skater would ever need.
 ---
 
 ### Contact me at:
