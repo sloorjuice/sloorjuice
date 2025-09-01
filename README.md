@@ -1,4 +1,4 @@
-## 👋 Hi there, My names **Anthony**
+## 👋 Hi there, My names **Ant** 🐜
 
 - I'm currently learning React Native and everything else that comes with mobile development.
 - My best projects right now are [Of The Day](https://github.com/sloorjuice/OfTheDay) and [Structura](https://github.com/sloorjuice/structura)!
