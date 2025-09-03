@@ -1,9 +1,9 @@
 ## 👋 Hi there, My names **Ant** 🐜
 
-- I'm currently learning React Native and everything else that comes with mobile development.
+- I'm currently growing my python skills and learning React Native and everything else that comes with mobile development.
 - My best projects right now are [Of The Day](https://github.com/sloorjuice/OfTheDay) and [Structura](https://github.com/sloorjuice/structura)!
-- Fluent in React Naitve, React, Next.js, Tailwind. Python, Javacript, C#, React, Unity2D/3D, plus using Netlify and Firebase.
-- Basic understanding of Java, Django, and using AWS.
+- Very Experienced in Python, Javascript, React Naitve, React, Next.js, Unity2D/3D and using Netlify / Firebase.
+- Basic understanding CSS/Tailwind Css, c#, AWS.
 - I'm working on my passion project "https://www.iskate.app/", A full on social media platofrom made for skateboarders. Everything a skater would ever need.
 ---
 
