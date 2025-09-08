@@ -1,7 +1,7 @@
 ## 👋 Hi there, My names **Ant** 🐜
 
-- I'm currently growing my python skills and learning React Native and everything else that comes with mobile development.
-- My best projects right now are [Of The Day](https://github.com/sloorjuice/OfTheDay) and [Structura](https://github.com/sloorjuice/structura)!
+- I'm currently growing my python skills and learning React Native plus everything else that comes with mobile development.
+- My favorite project by me right now is [JukeBox](https://github.com/sloorjuice/jukebox)
 - Very Experienced in Python, Javascript, React Naitve, React, Next.js, Unity2D/3D and using Netlify / Firebase.
 - Basic understanding CSS/Tailwind Css, c#, AWS.
 - I'm working on my passion project "https://www.iskate.app/", A full on social media platofrom made for skateboarders. Everything a skater would ever need.
