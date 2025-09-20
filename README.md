@@ -1,10 +1,11 @@
 ## 👋 Hi there, My names **Ant** 🐜
 
 - I'm currently growing my python skills and learning React Native plus everything else that comes with mobile development.
-- My favorite project by me right now is [JukeBox](https://github.com/sloorjuice/jukebox)
-- Very Experienced in Python, Javascript, React Naitve, React, Next.js, Unity2D/3D and using Netlify / Firebase.
-- Basic understanding CSS/Tailwind Css, c#, AWS.
-- I'm working on my passion project "https://www.iskate.app/", A full on social media platofrom made for skateboarders. Everything a skater would ever need.
+- The current project I'm wokring on I's [JukeBox](https://github.com/sloorjuice/jukebox). It's probably my coolest project.
+- 3+ years experience in Python, Javascript, React, Next.js, and using Netlify / Firebase.
+- 1+ years experience in React Native + Expo
+- Basic understanding Tailwind, c#, and AWS.
+- I'm also working on my passion project "https://www.iskate.app/", A full on social media platofrom made for skateboarders. Everything a skater would ever need.
 ---
 
 ### Contact me at:
