@@ -1,7 +1,7 @@
 ## 👋 Hi there, My names **Ant** 🐜
 
 - I'm currently growing my python skills and learning React Native plus everything else that comes with mobile development.
-- The current project I'm wokring on I's [JukeBox](https://github.com/sloorjuice/jukebox). It's probably my coolest project.
+- The current project I'm wokring on I's [JukeBox V2](https://github.com/sloorjuice/jukeboxV2). It's probably my coolest project.
 - 3+ years experience in Python, Javascript, React, Next.js, and using Netlify / Firebase.
 - 1+ years experience in React Native + Expo
 - Basic understanding Tailwind, c#, and AWS.
