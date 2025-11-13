@@ -6,7 +6,7 @@
 - 3+ years experience in Python, Javascript, React, Next.js, and using Netlify / Firebase.
 - 1+ years experience in React Native + Expo
 - Basic understanding Tailwind, c#, and AWS.
-- I'm also working on my passion project "https://www.iskate.app/", A full on social media platofrom made for skateboarders. Everything a skater would ever need.
+- I'm also working on my passion project "https://www.iskate.app/", a full-on social media platofrom made for skateboarders. Everything a skater would ever need.
 ---
 
 ### Contact me at:
