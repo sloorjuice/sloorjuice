@@ -5,7 +5,7 @@ I'm a Full-Stack Developer who dabbles in mobile & game development, game develo
 
 ### 🚀 What I'm Up To
 * 🎮 **Game Dev:** Making prototypes with Godot. Check out on my [Itch.io](https://sloorjuice.itch.io).
-*    **Game Modding:** Minecraft and Terraria with Java and C#.
+* ⚙️ **Game Modding:** Minecraft and Terraria with Java and C#.
 * 📱 **Mobile:** Learning React Native & Expo.
 * 🐍 **Python:** 3+ Years of experience using Python in many different ways.
 * 🌐 **Self-Hosting:** Minecraft servers, Websites, Discord bots, Plex.
