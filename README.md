@@ -1,16 +1,13 @@
 # Hi, I'm Ant! 🐜 
 
-I'm a Full-Stack Dev dabbling in game development & modding, making mobile apps, and home-labbing. 
----
+### What I'm Up To
+* **Game Dev:** Making prototypes with Godot. Check out on my [Itch.io](https://sloorjuice.itch.io).
+* **Game Modding:** Minecraft and Terraria with Java and C#.
+* **Mobile:** Learning React Native & Expo.
+* **Python:** 3+ Years of experience using Python in many different ways.
+* **Self-Hosting:** Minecraft servers, Websites, Discord bots, Plex.
 
-### 🚀 What I'm Up To
-* 🎮 **Game Dev:** Making prototypes with Godot. Check out on my [Itch.io](https://sloorjuice.itch.io).
-* ⚙️ **Game Modding:** Minecraft and Terraria with Java and C#.
-* 📱 **Mobile:** Learning React Native & Expo.
-* 🐍 **Python:** 3+ Years of experience using Python in many different ways.
-* 🌐 **Self-Hosting:** Minecraft servers, Websites, Discord bots, Plex.
-
-### 🛠️ Tech Stack & Tools
+### Tech Stacks & Tools
 
 | Category | Technologies |
 | :--- | :--- |
@@ -19,7 +16,7 @@ I'm a Full-Stack Dev dabbling in game development & modding, making mobile apps,
 | **Game Dev** | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)|
 | **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=46C018) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
 
-### 📊 GitHub Stats
+### Stats
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api?username=sloorjuice&layout=compact&theme=shades-of-purple&hide=html,css" height="150" style="margin-right: 10px;" />
@@ -28,9 +25,9 @@ I'm a Full-Stack Dev dabbling in game development & modding, making mobile apps,
 
 ---
 
-### 📬 Connect With Me
-* 📧 **Email:** [contact@sloor.dev](mailto:contact@sloor.dev)
-* 🐦 **Twitter:** [@Sloorjuice](https://x.com/sloorjuice)
-* 📞 **Phone:** (814) 431-2013
+### Connect With Me
+* **Email:** [contact@sloor.dev](mailto:contact@sloor.dev)
+* **Twitter:** [@Sloorjuice](https://x.com/sloorjuice)
+* **Phone:** (814) 431-2013
 
 ---
