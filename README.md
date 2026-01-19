@@ -19,6 +19,13 @@ I'm a Full-Stack Dev dabbling in game development & modding, making mobile apps,
 | **Game Dev** | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)|
 | **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=46C018) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
 
+### 📊 GitHub Stats
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sloorjuice&layout=compact&theme=shades-of-purple&hide=html,css" height="150" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sloorjuice&layout=compact&theme=shades-of-purple&hide=html,css" height="150" />
+</div>
+
 ---
 
 ### 📬 Connect With Me
@@ -27,6 +34,3 @@ I'm a Full-Stack Dev dabbling in game development & modding, making mobile apps,
 * 📞 **Phone:** (814) 431-2013
 
 ---
-
-### 📊 GitHub Stats
-![Ant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sloorjuice&show_icons=true&theme=radical)
