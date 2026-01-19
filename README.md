@@ -1,6 +1,6 @@
 # Hi, I'm Ant! 🐜 
 
-I'm a Full-Stack Developer who dabbles in mobile & game development, game development & modding, along with self-hosting.
+I'm a Full-Stack Dev dabbling in game development & modding, making mobile apps, and home-labbing. 
 ---
 
 ### 🚀 What I'm Up To
