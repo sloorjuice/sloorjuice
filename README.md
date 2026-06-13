@@ -7,5 +7,5 @@
 * **Java:** Experience creating Minecraft Mods and some small programs. I'm interested in using it for more projects.
 
 ### Connect With Me
-* **Email:** [contact@sloor.dev](mailto:sloorjuice@icloud.com)
+* **Email:** [sloorjuice@icloud.com](mailto:sloorjuice@icloud.com)
 * **Twitter:** [@Sloorjuice](https://x.com/sloorjuice)
